@@ -34,9 +34,13 @@ Folgende Möglichkeiten von LaTeX werden gezeigt:
 
 Am Ende der Facharbeit werden verschiedene Quellen genannt, welche den Umfang mit LaTeX vertiefen und ebenfalls als Nachschlagewerk dienen können (Kapitel 6.2). Dort sind ebenfalls Hinweise zur Installation von LaTeX aufgeführt.
 
+
+
 ## Fachliche Hilfestellungen der Vorlage
 
 Die Vorlage enthält eine Liste, wie mit der Recherche für die Facharbeit begonnen werden kann (Kapitel 6.1). Zudem werden verschiedene Programme und Dienste vorgestellt, die beim Schreiben der Facharbeit im Fach Informatik helfen könnten (Kapitel 6.3). Ebenfalls werden Programme und Dienste für eine Facharbeit in Mathematik vorgestellt (Kapitel 6.4).
+
+
 
 ## Vorlage herunterladen und erste Schritte
 
@@ -52,7 +56,7 @@ Die Vorlage enthält eine Liste, wie mit der Recherche für die Facharbeit begon
 Wenn Sie das erste Mal mit LaTeX arbeiten, bieten sich noch die folgenden weiteren Schritte an:
 
 1. Öffnen Sie die Ordner `bilder`, `quelltexte`, `anhang` und `klassendiagramm`, um einen Überblick über deren Inhalte zu bekommen.
-2. Lesen Sie das Kapitel 0 (*Informationen zu dieser Mini-Facharbeit*) und Kapitel 6 (*Weitere Informationen*) der Facharbeit (also des PDFs `facharbeit_quicksort.pdf`).
+2. Lesen Sie das Kapitel 1 (*Informationen zu dieser Mini-Facharbeit*) und Kapitel 6 (*Weitere Informationen*) der Facharbeit (also des PDFs `facharbeit_quicksort.pdf`).
 3. Erstellen Sie eine Kopie der Datei `facharbeit_quicksort.tex` und nennen Sie die Datei z. B. `meine_facharbeit.tex`.
 4. Öffnen Sie die Datei `meine_facharbeit.tex` und versuchen Sie, die Datei zu übersetzen. Dabei wird im besten Falle ein PDF `meine_facharbeit.pdf` erstellt.
 5. Sie können Datei `meine_facharbeit.tex` nun nach Belieben für Ihre Facharbeit anpassen – vielleicht empfiehlt es sich zunächst, einen Blick auf die angesprochenen LaTeX-Hilfestellungen zu werfen (Kapitel 6.2), um sich ein bisschen in LaTeX einzufinden.
