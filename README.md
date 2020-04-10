@@ -47,7 +47,7 @@ Die Vorlage enthält eine Liste, wie mit der Recherche für die Facharbeit begon
 </div>
 
 2. Entpacken Sie das Archiv.
-3. Die Vorlage befindet sich im Ordner `vorlage` und heißt `facharbeit_quicksort.tex`. Neben der `tex`-Datei sind dort auch die Order für Bilder, Quelltexte (also das Quicksort-Programm an sich!), PDF-Dokumente des Anhangs und das Klassendiagramm.
+3. Die LaTeX-Vorlage befindet sich im Ordner `vorlage` und heißt `facharbeit_quicksort.tex`. Neben der `tex`-Datei sind dort auch die Order für Bilder, Quelltexte (also auch das Quicksort-Programm an sich!), PDF-Dokumente des Anhangs und das Klassendiagramm vorhanden.
 
 Wenn Sie das erste Mal mit LaTeX arbeiten, bieten sich noch die folgenden weiteren Schritte an:
 
