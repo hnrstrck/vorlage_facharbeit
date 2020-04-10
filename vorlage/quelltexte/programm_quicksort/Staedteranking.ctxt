@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Staedteranking
+comment1.params=
+comment1.target=Staedteranking()
+comment2.params=pStadt
+comment2.target=void\ neueStadtInsRankingAufnehmen(Stadt)
+comment3.params=
+comment3.target=void\ listeAusgeben()
+comment4.params=
+comment4.target=void\ sortiereRankinglisteMitQuickSort()
+comment5.params=pZuSortierendeListe
+comment5.target=List\ quickSort(List)
+numComments=6
