@@ -1,0 +1,4 @@
+Hinweis:
+
+Der Ordner "programm_quicksort" ist ein normales BlueJ-Projekt.
+Natürlich können in diesem Ordner auch nur die java-Dateien abgelegt werden, die von Latex benötigt werden (ggfs. müssen die Pfade angepasst werden).
